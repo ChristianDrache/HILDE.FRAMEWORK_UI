@@ -1,0 +1,19 @@
+RPC method system.multicall()
+array(1) {
+  [0]=>
+  array(2) {
+	["methodName"]=>
+	string(5) "event"
+	["params"]=>
+	array(4) {
+	  [0]=>
+	  string(17) "edomi_hm-56867022"
+	  [1]=>
+	  string(12) "NEQ094XXXX:1"
+	  [2]=>
+	  string(6) "LOWBAT"
+	  [3]=>
+	  bool(false)
+	}
+  }
+}
