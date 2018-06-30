@@ -111,7 +111,7 @@
 	/********************************************************************************************************************/
 	
 	$hildeDb_server 	= "localhost";
-	$hildeDb_user 		= "";
+	$hildeDb_user 		= "abc";
 	$hildeDb_password 	= "";
 	$hildeDb_name 		= "homematic";
 	
